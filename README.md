@@ -1,7 +1,5 @@
 # Horiseon SEO Refactor
 
-[LIVE SITE](https://www.google.com)
-
 ## Table of Contents
 1. [Description](#description)
 2. [Visuals](#visuals)
@@ -9,9 +7,9 @@
 
 ## Description
 
-here's a nice description
+Took out div tags and replaced with semantic elements for improved seo.
 
-here's another description
+Consolidated css classes and added comments.
 
 ## Visuals
 ![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
